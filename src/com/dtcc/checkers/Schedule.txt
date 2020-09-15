@@ -27,13 +27,7 @@ All team members finish assigned task.
 Friday 9/18
 Final testing of all of the code - Team members fix any issues with their tasks.
 Submit final code by 8pm to DTCC.
-
-
-
-
-
-
-
+==========================================================
 Requirements
 The system generates a new game board (see mock up)
 The user can move their piece
