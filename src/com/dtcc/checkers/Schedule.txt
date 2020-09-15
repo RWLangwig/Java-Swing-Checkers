@@ -1,0 +1,44 @@
+Task list and schedule:
+Saturday 9/12
+1. Fork repository on GitHub - Robert Done
+
+Sunday 9/13
+2. Clone repository to local - all team members
+Robert - Done
+
+Monday 9/14 3:30pm zoom
+3. Meeting to discuss task assignments and future meeting times
+- all team members
+
+Tuesday 9/15
+4. The system generates a new game board (see mock up) - Lolu
+   The user can move their piece - Robert
+   The system removes the opponent's piece when the user performs a jump - Craig
+
+Wednesday 9/16 Zoom status meeting 3:30PM
+5. The user's piece is kinged when they reach the opposite side of the board - Lolu
+   The source code should all be unit tested - All team members for thier tasks
+   The system should save the game to a text file when the user presses the 's' key - Robert
+   The system should load the last saved game when the user presses the 'l' key - Craig
+
+Thursday 9/17 
+All team members finish assigned task.
+
+Friday 9/18
+Final testing of all of the code - Team members fix any issues with their tasks.
+Submit final code by 8pm to DTCC.
+
+
+
+
+
+
+
+Requirements
+The system generates a new game board (see mock up)
+The user can move their piece
+The system removes the opponent's piece when the user performs a jump
+The user's piece is kinged when they reach the opposite side of the board
+The source code should all be unit tested
+The system should save the game to a text file when the user presses the 's' key
+The system should load the last saved game when the user presses the 'l' key
